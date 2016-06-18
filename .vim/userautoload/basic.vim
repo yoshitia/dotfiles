@@ -51,4 +51,3 @@ augroup filetypedetect
 	au BufNewFile,BufRead *.cpp setlocal tabstop=4 shiftwidth=4
 	au BufNewFile,BufRead *.h   setlocal tabstop=4 shiftwidth=4
 augroup END
-endif
